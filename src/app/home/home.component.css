@@ -1,0 +1,18 @@
+
+* {
+  font-size: 20px;
+  color: darkgray;
+}
+
+.content_div {
+
+}
+
+.content_div ul {
+  list-style: none;
+}
+
+.content_div ul li {
+  float: left;
+  margin-left: 10px;
+}
